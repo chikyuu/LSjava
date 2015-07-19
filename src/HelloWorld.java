@@ -18,7 +18,7 @@ public class HelloWorld {
 		int i = 10;
 		int j = 20;
 		
-		System.out.println("hello world   " + (i=j));
+		System.out.println("hello world" + (i=j));
 		
 	}
 	
